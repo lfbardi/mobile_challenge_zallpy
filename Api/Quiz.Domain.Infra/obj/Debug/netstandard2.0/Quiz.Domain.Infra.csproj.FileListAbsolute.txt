@@ -1,0 +1,12 @@
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain.Infra\bin\Debug\netstandard2.0\Quiz.Domain.Infra.deps.json
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain.Infra\bin\Debug\netstandard2.0\Quiz.Domain.Infra.dll
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain.Infra\bin\Debug\netstandard2.0\Quiz.Domain.Infra.pdb
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain.Infra\obj\Debug\netstandard2.0\Quiz.Domain.Infra.csprojAssemblyReference.cache
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain.Infra\obj\Debug\netstandard2.0\Quiz.Domain.Infra.AssemblyInfoInputs.cache
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain.Infra\obj\Debug\netstandard2.0\Quiz.Domain.Infra.AssemblyInfo.cs
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain.Infra\obj\Debug\netstandard2.0\Quiz.Domain.Infra.csproj.CoreCompileInputs.cache
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain.Infra\obj\Debug\netstandard2.0\Quiz.Domain.Infra.dll
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain.Infra\obj\Debug\netstandard2.0\Quiz.Domain.Infra.pdb
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain.Infra\bin\Debug\netstandard2.0\Quiz.Domain.dll
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain.Infra\bin\Debug\netstandard2.0\Quiz.Domain.pdb
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain.Infra\obj\Debug\netstandard2.0\Quiz.Domain.Infra.csproj.CopyComplete
