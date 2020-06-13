@@ -1,0 +1,9 @@
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain\bin\Debug\netstandard2.0\Quiz.Domain.deps.json
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain\bin\Debug\netstandard2.0\Quiz.Domain.dll
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain\bin\Debug\netstandard2.0\Quiz.Domain.pdb
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain\obj\Debug\netstandard2.0\Quiz.Domain.csprojAssemblyReference.cache
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain\obj\Debug\netstandard2.0\Quiz.Domain.AssemblyInfoInputs.cache
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain\obj\Debug\netstandard2.0\Quiz.Domain.AssemblyInfo.cs
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain\obj\Debug\netstandard2.0\Quiz.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain\obj\Debug\netstandard2.0\Quiz.Domain.dll
+C:\Users\lomba\Documents\flutter\mobile_challenge_zallpy\Api\Quiz.Domain\obj\Debug\netstandard2.0\Quiz.Domain.pdb
