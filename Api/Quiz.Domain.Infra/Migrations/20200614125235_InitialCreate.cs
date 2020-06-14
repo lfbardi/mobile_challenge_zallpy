@@ -13,11 +13,12 @@ namespace Quiz.Domain.Infra.Migrations
                 {
                     Id = table.Column<Guid>(nullable: false),
                     Title = table.Column<string>(type: "varchar(160)", maxLength: 160, nullable: true),
-                    CorrectAnswer = table.Column<string>(type: "varchar(80)", maxLength: 160, nullable: true),
-                    AnswerA = table.Column<string>(type: "varchar(80)", maxLength: 160, nullable: true),
-                    AnswerB = table.Column<string>(type: "varchar(80)", maxLength: 160, nullable: true),
-                    AnswerC = table.Column<string>(type: "varchar(80)", maxLength: 160, nullable: true),
-                    AnswerD = table.Column<string>(type: "varchar(80)", maxLength: 160, nullable: true)
+                    CorrectAnswer = table.Column<string>(type: "varchar(80)", maxLength: 80, nullable: true),
+                    Company = table.Column<string>(type: "varchar(80)", maxLength: 80, nullable: true),
+                    AnswerA = table.Column<string>(type: "varchar(80)", maxLength: 80, nullable: true),
+                    AnswerB = table.Column<string>(type: "varchar(80)", maxLength: 80, nullable: true),
+                    AnswerC = table.Column<string>(type: "varchar(80)", maxLength: 80, nullable: true),
+                    AnswerD = table.Column<string>(type: "varchar(80)", maxLength: 80, nullable: true)
                 },
                 constraints: table =>
                 {

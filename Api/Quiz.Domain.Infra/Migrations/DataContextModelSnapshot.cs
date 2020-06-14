@@ -27,23 +27,27 @@ namespace Quiz.Domain.Infra.Migrations
 
                     b.Property<string>("AnswerA")
                         .HasColumnType("varchar(80)")
-                        .HasMaxLength(160);
+                        .HasMaxLength(80);
 
                     b.Property<string>("AnswerB")
                         .HasColumnType("varchar(80)")
-                        .HasMaxLength(160);
+                        .HasMaxLength(80);
 
                     b.Property<string>("AnswerC")
                         .HasColumnType("varchar(80)")
-                        .HasMaxLength(160);
+                        .HasMaxLength(80);
 
                     b.Property<string>("AnswerD")
                         .HasColumnType("varchar(80)")
-                        .HasMaxLength(160);
+                        .HasMaxLength(80);
+
+                    b.Property<string>("Company")
+                        .HasColumnType("varchar(80)")
+                        .HasMaxLength(80);
 
                     b.Property<string>("CorrectAnswer")
                         .HasColumnType("varchar(80)")
-                        .HasMaxLength(160);
+                        .HasMaxLength(80);
 
                     b.Property<string>("Title")
                         .HasColumnType("varchar(160)")

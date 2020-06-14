@@ -15,11 +15,12 @@ namespace Quiz.Domain.Infra.Contexts
         {
             modelBuilder.Entity<Question>().Property(question => question.Id);
             modelBuilder.Entity<Question>().Property(question => question.Title).HasMaxLength(160).HasColumnType("varchar(160)");
-            modelBuilder.Entity<Question>().Property(question => question.CorrectAnswer).HasMaxLength(160).HasColumnType("varchar(80)");
-            modelBuilder.Entity<Question>().Property(question => question.AnswerA).HasMaxLength(160).HasColumnType("varchar(80)");
-            modelBuilder.Entity<Question>().Property(question => question.AnswerB).HasMaxLength(160).HasColumnType("varchar(80)");
-            modelBuilder.Entity<Question>().Property(question => question.AnswerC).HasMaxLength(160).HasColumnType("varchar(80)");
-            modelBuilder.Entity<Question>().Property(question => question.AnswerD).HasMaxLength(160).HasColumnType("varchar(80)");
+            modelBuilder.Entity<Question>().Property(question => question.CorrectAnswer).HasMaxLength(80).HasColumnType("varchar(80)");
+            modelBuilder.Entity<Question>().Property(question => question.Company).HasMaxLength(80).HasColumnType("varchar(80)");
+            modelBuilder.Entity<Question>().Property(question => question.AnswerA).HasMaxLength(80).HasColumnType("varchar(80)");
+            modelBuilder.Entity<Question>().Property(question => question.AnswerB).HasMaxLength(80).HasColumnType("varchar(80)");
+            modelBuilder.Entity<Question>().Property(question => question.AnswerC).HasMaxLength(80).HasColumnType("varchar(80)");
+            modelBuilder.Entity<Question>().Property(question => question.AnswerD).HasMaxLength(80).HasColumnType("varchar(80)");
         }
     }
 }

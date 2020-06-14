@@ -23,8 +23,8 @@ namespace Quiz.Domain.Handlers
             if(command.Invalid)
                 return new GenericCommandResult(false, "Ops, something went wrong", command.Notifications);
 
-            var question = new Question(command.Title, command.CorrectAnswer, command.AnswerA,
-                command.AnswerB, command.AnswerC, command.AnswerD);
+            var question = new Question(command.Title, command.CorrectAnswer, command.Company,
+            command.AnswerA, command.AnswerB, command.AnswerC, command.AnswerD);
             
             _repository.Create(question);
 
