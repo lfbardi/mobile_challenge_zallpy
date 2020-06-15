@@ -18,5 +18,5 @@
     - open the backend project Quiz.Domain.Api
     - run in the terminal ( dotnet watch run )
     - open the mobile project
-    - run an android emulator
+    - run an android emulator ( tested on Nexus 5 API 28 )
     - run the mobile project
