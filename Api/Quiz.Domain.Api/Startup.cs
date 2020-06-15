@@ -39,8 +39,6 @@ namespace Quiz.Domain.Api
             if (env.IsDevelopment())
                 app.UseDeveloperExceptionPage();
 
-            app.UseHttpsRedirection();
-
             app.UseRouting();
             app.UseCors(app => app
                 .AllowAnyOrigin()
