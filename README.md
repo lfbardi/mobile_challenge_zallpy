@@ -20,3 +20,7 @@
     - open the mobile project
     - run an android emulator ( tested on Nexus 5 API 28 )
     - run the mobile project
+
+### reference courses
+    - https://www.udemy.com/course/curso-c-sharp/
+    - https://app.balta.io/courses/7199
